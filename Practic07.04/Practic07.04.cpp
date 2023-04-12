@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include <string>
+#include <Animal.h>
 using namespace std;
 
 /*
@@ -59,4 +60,6 @@ int main()
 {
 	setlocale(LC_ALL, "");
 	f1();
+	Animal a;
+	a.
 }
